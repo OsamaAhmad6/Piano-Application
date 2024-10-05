@@ -5,7 +5,8 @@ A simple piano application built using **HTML**, **CSS**, and **JavaScript**. Th
 
 ## 🖼️ Demo
 
-You can add a screenshot or a GIF of the piano application here to give users an idea of what it looks like.
+![image](https://github.com/user-attachments/assets/feeaba1e-6c03-406e-9fc4-ff3fca7ec3b2)
+
 
 ## ✨ Features
 
